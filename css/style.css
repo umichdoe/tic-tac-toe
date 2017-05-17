@@ -21,8 +21,10 @@ body {
 }
 
 .box {
-  border: 1px solid black;
+  border: 10px solid black;
   height: 150px;
+  background: orange;
+  font-size: 20px;
 }
 
 .reset-button {
